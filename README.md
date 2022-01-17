@@ -19,6 +19,7 @@
   ![Php](https://img.shields.io/badge/-Php-333333?style=flat&logo=php)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 - 🛢 &nbsp;
+- ![Seo](https://img.shields.io/badge/-Seo-333333?style=flat&logo=seo)
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
