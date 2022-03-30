@@ -17,7 +17,6 @@
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-
   ![Php](https://img.shields.io/badge/-Php-333333?style=flat&logo=php)
   
 - 🛢 &nbsp;
