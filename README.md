@@ -1,5 +1,5 @@
 
-<h2> Hey codeer's! How are You doing? </h2>
+<h2> Hey coder's! How are You doing? </h2>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
